@@ -1,0 +1,8 @@
+{
+    "editor.tabSize": 2,
+    "cmake.configureOnOpen": false,
+    "editor.fontSize": 14,
+    "editor.wordWrap": "off",
+    "dart.lineLength": 200,
+    "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+}

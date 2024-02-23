@@ -1,0 +1,485 @@
+{
+    "city": "武汉",
+    "region": [
+        {
+            "region": "江岸区",
+            "buildings": [
+                {
+                    "name": "百步亭",
+                    "pinyin": "baibuting",
+                    "length": 81
+                },
+                {
+                    "name": "大智路",
+                    "pinyin": "dazhilu",
+                    "length": 13
+                },
+                {
+                    "name": "堤角",
+                    "pinyin": "dijiao",
+                    "length": 30
+                },
+                {
+                    "name": "二七",
+                    "pinyin": "erqi2",
+                    "length": 27
+                },
+                {
+                    "name": "后湖",
+                    "pinyin": "houhu",
+                    "length": 81
+                },
+                {
+                    "name": "黄埔永清",
+                    "pinyin": "huangpuyongqing",
+                    "length": 51
+                },
+                {
+                    "name": "前进江汉",
+                    "pinyin": "qianjinjianghan",
+                    "length": 39
+                },
+                {
+                    "name": "三阳路",
+                    "pinyin": "sanyanglu",
+                    "length": 35
+                },
+                {
+                    "name": "台北香港路",
+                    "pinyin": "taibeixiangganglu",
+                    "length": 62
+                },
+                {
+                    "name": "唐家墩",
+                    "pinyin": "tangjiadun",
+                    "length": 40
+                },
+                {
+                    "name": "塔子湖",
+                    "pinyin": "tazihu",
+                    "length": 100
+                },
+                {
+                    "name": "育才花桥",
+                    "pinyin": "yucaihuaqiao",
+                    "length": 47
+                }
+            ]
+        },
+        {
+            "region": "江汉区",
+            "buildings": [
+                {
+                    "name": "宝丰崇仁",
+                    "pinyin": "baofengchongren",
+                    "length": 36
+                },
+                {
+                    "name": "CBD西北湖",
+                    "pinyin": "cbdxibeihu",
+                    "length": 75
+                },
+                {
+                    "name": "长丰常码头",
+                    "pinyin": "changfengchangmatou",
+                    "length": 56
+                },
+                {
+                    "name": "长港路",
+                    "pinyin": "changganglu",
+                    "length": 46
+                },
+                {
+                    "name": "常青路",
+                    "pinyin": "changqinglu",
+                    "length": 11
+                },
+                {
+                    "name": "汉正街",
+                    "pinyin": "hanzhengjie",
+                    "length": 21
+                },
+                {
+                    "name": "集贤",
+                    "pinyin": "jixian2",
+                    "length": 29
+                },
+                {
+                    "name": "武广万松园",
+                    "pinyin": "wuguangwansongyuan",
+                    "length": 36
+                },
+                {
+                    "name": "新华路万达",
+                    "pinyin": "xinhualuwanda",
+                    "length": 62
+                },
+                {
+                    "name": "杨汊湖",
+                    "pinyin": "yangchahu",
+                    "length": 42
+                }
+            ]
+        },
+        {
+            "region": "硚口区",
+            "buildings": [
+                {
+                    "name": "古田",
+                    "pinyin": "gutian",
+                    "length": 74
+                },
+                {
+                    "name": "宗关",
+                    "pinyin": "zongguan",
+                    "length": 42
+                }
+            ]
+        },
+        {
+            "region": "东西湖区",
+            "buildings": [
+                {
+                    "name": "常青花园",
+                    "pinyin": "changqinghuayuan",
+                    "length": 67
+                },
+                {
+                    "name": "东西湖其他",
+                    "pinyin": "dongxihuqita",
+                    "length": 19
+                },
+                {
+                    "name": "将军路",
+                    "pinyin": "jiangjunlu",
+                    "length": 53
+                },
+                {
+                    "name": "金银湖",
+                    "pinyin": "jinyinhu",
+                    "length": 100
+                },
+                {
+                    "name": "吴家山",
+                    "pinyin": "wujiashan",
+                    "length": 39
+                }
+            ]
+        },
+        {
+            "region": "武昌区",
+            "buildings": [
+                {
+                    "name": "楚河汉街",
+                    "pinyin": "chuhehanjie",
+                    "length": 25
+                },
+                {
+                    "name": "东湖东亭",
+                    "pinyin": "donghudongting",
+                    "length": 51
+                },
+                {
+                    "name": "积玉桥",
+                    "pinyin": "jiyuqiao",
+                    "length": 75
+                },
+                {
+                    "name": "沙湖",
+                    "pinyin": "shahu",
+                    "length": 50
+                },
+                {
+                    "name": "首义",
+                    "pinyin": "shouyi",
+                    "length": 42
+                },
+                {
+                    "name": "水果湖",
+                    "pinyin": "shuiguohu",
+                    "length": 22
+                },
+                {
+                    "name": "武昌火车站",
+                    "pinyin": "wuchanghuochezhan",
+                    "length": 42
+                },
+                {
+                    "name": "徐东",
+                    "pinyin": "xudong",
+                    "length": 56
+                },
+                {
+                    "name": "杨园",
+                    "pinyin": "yangyuan",
+                    "length": 47
+                },
+                {
+                    "name": "中北路",
+                    "pinyin": "zhongbeilu",
+                    "length": 33
+                },
+                {
+                    "name": "中南丁字桥",
+                    "pinyin": "zhongnandingziqiao",
+                    "length": 76
+                }
+            ]
+        },
+        {
+            "region": "青山区",
+            "buildings": [
+                {
+                    "name": "青山",
+                    "pinyin": "qingshan1",
+                    "length": 100
+                }
+            ]
+        },
+        {
+            "region": "洪山区",
+            "buildings": [
+                {
+                    "name": "白沙洲",
+                    "pinyin": "baishazhou",
+                    "length": 100
+                },
+                {
+                    "name": "洪山其他",
+                    "pinyin": "hongshanqita",
+                    "length": 20
+                },
+                {
+                    "name": "虎泉杨家湾",
+                    "pinyin": "huquanyangjiawan",
+                    "length": 20
+                },
+                {
+                    "name": "街道口",
+                    "pinyin": "jiedaokou",
+                    "length": 41
+                },
+                {
+                    "name": "老南湖",
+                    "pinyin": "laonanhu",
+                    "length": 61
+                },
+                {
+                    "name": "珞狮南路",
+                    "pinyin": "luoshinanlu",
+                    "length": 61
+                },
+                {
+                    "name": "南湖沃尔玛",
+                    "pinyin": "nanhuwoerma",
+                    "length": 42
+                },
+                {
+                    "name": "团结大道",
+                    "pinyin": "tuanjiedadao",
+                    "length": 58
+                },
+                {
+                    "name": "新南湖",
+                    "pinyin": "xinnanhu",
+                    "length": 37
+                },
+                {
+                    "name": "卓刀泉",
+                    "pinyin": "zhuodaoquan",
+                    "length": 54
+                }
+            ]
+        },
+        {
+            "region": "汉阳区",
+            "buildings": [
+                {
+                    "name": "七里庙",
+                    "pinyin": "qilimiao",
+                    "length": 54
+                },
+                {
+                    "name": "四新",
+                    "pinyin": "sixin",
+                    "length": 100
+                },
+                {
+                    "name": "王家湾",
+                    "pinyin": "wangjiawan",
+                    "length": 94
+                },
+                {
+                    "name": "钟家村",
+                    "pinyin": "zhongjiacun",
+                    "length": 100
+                }
+            ]
+        },
+        {
+            "region": "东湖高新区",
+            "buildings": [
+                {
+                    "name": "光谷东",
+                    "pinyin": "guanggudong",
+                    "length": 100
+                },
+                {
+                    "name": "光谷广场",
+                    "pinyin": "guangguguangchang",
+                    "length": 36
+                },
+                {
+                    "name": "光谷南",
+                    "pinyin": "guanggunan",
+                    "length": 32
+                },
+                {
+                    "name": "关山大道",
+                    "pinyin": "guanshandadao",
+                    "length": 87
+                },
+                {
+                    "name": "关西长职",
+                    "pinyin": "guanxichangzhi",
+                    "length": 100
+                },
+                {
+                    "name": "华科大",
+                    "pinyin": "huakeda",
+                    "length": 42
+                },
+                {
+                    "name": "金融港",
+                    "pinyin": "jinronggang",
+                    "length": 100
+                },
+                {
+                    "name": "名族大道",
+                    "pinyin": "minzudadao",
+                    "length": 100
+                },
+                {
+                    "name": "三环南",
+                    "pinyin": "sanhuannan",
+                    "length": 32
+                }
+            ]
+        },
+        {
+            "region": "江夏区",
+            "buildings": [
+                {
+                    "name": "藏龙岛",
+                    "pinyin": "canglongdao",
+                    "length": 39
+                },
+                {
+                    "name": "黄家湖",
+                    "pinyin": "huangjiahu1",
+                    "length": 26
+                },
+                {
+                    "name": "江夏其他",
+                    "pinyin": "jiangxiaqita",
+                    "length": 32
+                },
+                {
+                    "name": "庙山",
+                    "pinyin": "miaoshan",
+                    "length": 61
+                },
+                {
+                    "name": "文化大道",
+                    "pinyin": "wenhuadadao",
+                    "length": 78
+                },
+                {
+                    "name": "纸坊",
+                    "pinyin": "zhifang",
+                    "length": 56
+                }
+            ]
+        },
+        {
+            "region": "蔡甸",
+            "buildings": [
+                {
+                    "name": "蔡甸城区",
+                    "pinyin": "caidianchengqu",
+                    "length": 85
+                },
+                {
+                    "name": "蔡甸其他",
+                    "pinyin": "caidianqita",
+                    "length": 4
+                },
+                {
+                    "name": "后官湖",
+                    "pinyin": "houguanhu",
+                    "length": 34
+                },
+                {
+                    "name": "中法生态城",
+                    "pinyin": "zhongfashengtaicheng",
+                    "length": 38
+                }
+            ]
+        },
+        {
+            "region": "黄陂",
+            "buildings": [
+                {
+                    "name": "汉口北",
+                    "pinyin": "hankoubei",
+                    "length": 9
+                },
+                {
+                    "name": "横店街",
+                    "pinyin": "hengdianjie",
+                    "length": 1
+                },
+                {
+                    "name": "黄陂其他",
+                    "pinyin": "huangbeiqita",
+                    "length": 12
+                },
+                {
+                    "name": "盘龙城",
+                    "pinyin": "panlongcheng",
+                    "length": 100
+                },
+                {
+                    "name": "前川",
+                    "pinyin": "qianchuan",
+                    "length": 3
+                },
+                {
+                    "name": "武湖",
+                    "pinyin": "wuhu",
+                    "length": 18
+                }
+            ]
+        },
+        {
+            "region": "沌口",
+            "buildings": [
+                {
+                    "name": "沌口",
+                    "pinyin": "dunkou",
+                    "length": 100
+                }
+            ]
+        },
+        {
+            "region": "汉南",
+            "buildings": [
+                {
+                    "name": "汉南其他",
+                    "pinyin": "hannanqita",
+                    "length": 31
+                }
+            ]
+        }
+    ]
+}
